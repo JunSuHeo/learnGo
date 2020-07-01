@@ -11,8 +11,10 @@ Go 컴파일러는 main을 찾아 실행시키기 때문에 실행 가능하게 
 이때 func main을 만들어 줘서 여기서 부터 실행할 것이라고 정해준다.   
 
 ```
+//package를 main으로 설정
 package main
 
+//main 함수 정의
 func main() {
 
 }
